@@ -1,0 +1,5 @@
+# Dependencias para ejecutar la simulación y el notebook interactivo.
+numpy>=1.26
+matplotlib>=3.8
+jupyterlab>=4.0
+ipywidgets>=8.0
